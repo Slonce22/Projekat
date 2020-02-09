@@ -187,7 +187,7 @@ require "php/config.php"; ?>
 
 
 <div id="main_footer" class="col-lg-12 col-xs-12" >
-    (2016)Designed by Jelena Spasić
+    (2020)
 </div>
 
 
